@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"E:/scuola/Samt/I4BB/340/vagrant/adminer","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"E:/scuola/Samt/I4BB/340/vagrant","disabled":false,"__vagrantfile":true}}}
